@@ -7,7 +7,7 @@ python-dateutil
 tld
 pyamf
 psutil
-plyvel
+plyvel #might not work
 tblib
 tabulate
 pytest
