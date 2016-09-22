@@ -1,3 +1,6 @@
+
+Note: use this command to install correct library. CFLAGS='-mmacosx-version-min=10.7 -stdlib=libc++' pip install plyvel
+
 OpenWPM [![Build Status](https://travis-ci.org/citp/OpenWPM.svg)](https://travis-ci.org/citp/OpenWPM)
 =======
 
