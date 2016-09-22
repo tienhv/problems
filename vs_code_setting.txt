@@ -1,0 +1,48 @@
+
+// Place your settings in this file to overwrite the default settings
+{
+        //  "vsicons.hideIconsInTabs": false,
+        "terminal.external.osxExec": "Terminal.app",
+        // This is Python specific 
+        "python.linting.pylintEnabled": false,
+        "python.linting.flake8Enabled": true,
+        "python.formatting.provider": "autopep8",
+        // "python.unitTest.unittestEnabled": true,
+        "python.unitTest.pyTestEnabled": true,
+        // "python.unitTest.nosetestsEnabled": false,
+        // "python.linting.enabled": false,
+
+        // Disable sending data to MS
+        "update.channel": "none",
+        "telemetry.enableCrashReporter": false,
+        "telemetry.enableTelemetry": false,
+        
+        // Sync setting with github
+        
+        // Editor specific 
+        "editor.mouseWheelZoom":true,
+        "editor.renderIndentGuides":true,
+        "editor.fontSize": 14,
+        //"editor.fontFamily": "Inconsolata,Monaco, Consolas, 'Courier New', Courier"
+        "editor.fontFamily": "Fira Mono",
+        //"editor.fontFamily":"Courier New",
+        //"explorer.openEditors.visible": 2,
+        //"editor.roundedSelection": false,
+        "files.exclude": {
+                "**/.git": true,
+                "**/.DS_Store": true,
+                ".vscode": true,
+                "**/__pycache__": true,
+                "**/**/*.pyc": true
+        },
+        //cancel this because go format
+        //"files.autoSave": "afterDelay",
+        "editor.rulers": [79],
+        //golang
+        "go.formatTool": "gofmt",
+        "go.formatOnSave": true
+
+        //"editor.fontFamily": "Consolas, 'Courier New', Courier"
+        //golang
+        
+}
