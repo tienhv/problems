@@ -1,0 +1,34 @@
+{
+    "proxy": false,
+    "extension": {
+        "enabled": false,
+        "cookieInstrument": false,
+        "jsInstrument": false,
+        "cpInstrument": false
+    },
+    "save_javascript": false,
+
+    "random_attributes": false,
+    "bot_mitigation": false,
+    "disable_flash": true,
+    "debugging": false,
+    "profile_tar": null,
+    "profile_archive_dir": null,
+    "headless": false,
+    "browser": "firefox",
+
+    "tp_cookies": "always",
+    "donottrack": false,
+    "ghostery": false,
+    "https-everywhere": false,
+    "adblock-plus": false,
+    "tracking-protection": false,
+    "socks":false,
+    "socks_port":false,
+    "id":"default_id",
+    "pass":"pass",
+    "training_sites":"data/training_sites.txt",
+    "training_keywords":"data/training_keywords.txt",
+    "tesing_keywords":"data/testing_keywords.txt",
+    "click_conditions":null
+}

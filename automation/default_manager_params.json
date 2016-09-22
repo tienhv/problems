@@ -1,0 +1,8 @@
+{
+    "data_directory": "data",
+    "log_directory": "data",
+    "database_name": "crawl-data.sqlite",
+    "log_file": "openwpm.log",
+    "failure_limit": null,
+    "save_separated_profile":true
+}

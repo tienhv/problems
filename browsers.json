@@ -1,0 +1,107 @@
+{
+
+            "1": {
+        "proxy": false,
+        "extension": {
+        "enabled": false,
+        "cookieInstrument": false,
+        "jsInstrument": false,
+        "cpInstrument": false
+        },
+        "save_javascript": false,
+        "random_attributes": false,
+        "bot_mitigation": false,
+        "disable_flash": true,
+        "debugging": false,
+        "headless": false,
+        "browser": "firefox",
+        "tp_cookies": "always",
+        "donottrack": false,
+        "ghostery": false,
+        "https-everywhere": false,
+        "adblock-plus": false,
+        "tracking-protection": false,
+        "id":"us_1",
+        "pass":null,
+        "profile_archive_dir":"data/ar",
+        "profile_path":"data",
+        "profile_tar":null,
+        "socks":false,
+        "socks_port":false,
+        "training_sites":"data/training_sites.txt",
+        "training_keywords":"data/training_keywords.txt",
+        "tesing_keywords":"data/testing_keywords.txt",
+        "click_conditions":"1"
+        }
+    
+,
+            "2": {
+        "proxy": false,
+        "extension": {
+        "enabled": false,
+        "cookieInstrument": false,
+        "jsInstrument": false,
+        "cpInstrument": false
+        },
+        "save_javascript": false,
+        "random_attributes": false,
+        "bot_mitigation": false,
+        "disable_flash": true,
+        "debugging": false,
+        "headless": false,
+        "browser": "firefox",
+        "tp_cookies": "always",
+        "donottrack": false,
+        "ghostery": false,
+        "https-everywhere": false,
+        "adblock-plus": false,
+        "tracking-protection": false,
+        "id":"us_2",
+        "pass":null,
+        "profile_archive_dir":"data/ar",
+        "profile_path":"data",
+        "profile_tar":null,
+        "socks":false,
+        "socks_port":false,
+        "training_sites":"data/training_sites.txt",
+        "training_keywords":"data/training_keywords.txt",
+        "tesing_keywords":"data/testing_keywords.txt",
+        "click_conditions":"1"
+        }
+    
+,
+            "3": {
+        "proxy": false,
+        "extension": {
+        "enabled": false,
+        "cookieInstrument": false,
+        "jsInstrument": false,
+        "cpInstrument": false
+        },
+        "save_javascript": false,
+        "random_attributes": false,
+        "bot_mitigation": false,
+        "disable_flash": true,
+        "debugging": false,
+        "headless": false,
+        "browser": "firefox",
+        "tp_cookies": "always",
+        "donottrack": false,
+        "ghostery": false,
+        "https-everywhere": false,
+        "adblock-plus": false,
+        "tracking-protection": false,
+        "id":"us_3",
+        "pass":null,
+        "profile_archive_dir":"data/ar",
+        "profile_path":"data",
+        "profile_tar":null,
+        "socks":false,
+        "socks_port":false,
+        "training_sites":"data/training_sites.txt",
+        "training_keywords":"data/training_keywords.txt",
+        "tesing_keywords":"data/testing_keywords.txt",
+        "click_conditions":"1"
+        }
+    
+}

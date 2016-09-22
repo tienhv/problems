@@ -1,0 +1,70 @@
+{
+        "1": {
+        "proxy": false,
+        "extension": {
+            "enabled": false,
+            "cookieInstrument": false,
+            "jsInstrument": false,
+            "cpInstrument": false
+        },
+        "save_javascript": false,
+        "random_attributes": false,
+        "bot_mitigation": false,
+        "disable_flash": true,
+        "debugging": false,
+        "headless": false,
+        "browser": "firefox",
+        "tp_cookies": "always",
+        "donottrack": false,
+        "ghostery": false,
+        "https-everywhere": false,
+        "adblock-plus": false,
+        "tracking-protection": false,
+        "id":"amail@lab..it",
+        "pass":"0001",
+        "profile_path":"data",
+        "profile_tar":null,
+        "profile_archive_dir":"data/ar",
+        "socks":null,
+        "socks_port":null,
+        "training_sites":"data/training_sites.txt",
+        "training_keywords":"data/training_keywords.txt",
+        "tesing_keywords":"data/testing_keywords.txt",
+        "click_conditions":null
+    },
+    "2":{
+        "proxy": false,
+        "extension": {
+            "enabled": false,
+            "cookieInstrument": false,
+            "jsInstrument": false,
+            "cpInstrument": false
+        },
+        "save_javascript": false,
+
+        "random_attributes": false,
+        "bot_mitigation": false,
+        "disable_flash": true,
+        "debugging": false,
+        "headless": false,
+        "browser": "firefox",
+        "tp_cookies": "always",
+        "donottrack": false,
+        "ghostery": false,
+        "https-everywhere": false,
+        "adblock-plus": false,
+        "tracking-protection": false,
+        "id":"eamil@lab..it",
+        "pass":"0001",
+        "profile_archive_dir":"data/ar",
+        "profile_path":"data/",
+        "profile_tar":null,
+        "socks":null,
+        "socks_port":null,
+        "training_sites":"data/training_sites.txt",
+        "training_keywords":"data/training_keywords.txt",
+        "tesing_keywords":"data/testing_keywords.txt",
+        "click_conditions":null
+    }
+
+}
